@@ -167,7 +167,7 @@ Usage with default slices
 ### With Sass modules and @use, recommended
 
 ```scss
-@use "node_modules/breakpoint-slicer" as bs;
+@use "node_modules/breakpoint-slicer" as bp;
 
 .foo {
   @include bp.at(s) {
